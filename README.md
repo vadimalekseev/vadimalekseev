@@ -32,7 +32,7 @@ and [<img src="https://telegram.org/favicon.ico" width="15" height="15">][3]
 ![](https://img.shields.io/badge/Code-Go-00ADD8?style=flat&logo=go)
 ![](https://img.shields.io/badge/Code-Flutter-02569B?style=flat&logo=flutter)
 
-### Also often use:
+### Also often use
 
 ![](https://img.shields.io/badge/Code-Vue-4FC08D?style=flat&logo=vue.js)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-336791?style=flat&logo=postgresql)
