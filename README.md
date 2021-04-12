@@ -8,8 +8,11 @@
 
 ## 🐱 About
 
-My name is Vadim Alekseev and I'm a Software Engineer. 
+My name is Vadim Alekseev and I'm a Software Engineer.
+<!---
 I'm from Russia, living in Dubna and currently working at [<img src="https://monqlab.com/favicon.ico" width="15" height="15"> MONQ Lab](https://monqlab.com).
+-->
+
 
 ## 📞 Contacts
 
@@ -22,20 +25,19 @@ and [<img src="https://telegram.org/favicon.ico" width="15" height="15">][3]
 
 ### Love
 
+![](https://img.shields.io/badge/Code-Go-00ADD8?style=flat&logo=go)
 ![](https://img.shields.io/badge/Tools-.NET-512BD4?style=flat&logo=.net)
 ![](https://img.shields.io/badge/Code-CSharp-239120?style=flat&logo=C-Sharp)
-![](https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat&logo=typescript)
-![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript)
 
 ### Watch
 
-![](https://img.shields.io/badge/Code-Go-00ADD8?style=flat&logo=go)
+![](https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat&logo=typescript)
+![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Code-Flutter-02569B?style=flat&logo=flutter)
 
 ### Also often use
 
 ![](https://img.shields.io/badge/Code-Vue-4FC08D?style=flat&logo=vue.js)
-![](https://img.shields.io/badge/Code-Angular-DD0031?style=flat&logo=angular)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-336791?style=flat&logo=postgresql)
 ![](https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker)
 ![](https://img.shields.io/badge/Editor-VS-5C2D91?style=flat&logo=visual-studio)
