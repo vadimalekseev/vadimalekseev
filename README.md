@@ -29,7 +29,6 @@ and [<img src="https://telegram.org/favicon.ico" width="15" height="15">][3]
 ![](https://img.shields.io/badge/Code-Go-00ADD8?style=flat&logo=go)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-336791?style=flat&logo=postgresql)
 ![](https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker)
-![](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=gnu-bash)
 
 ### Have experience
 
