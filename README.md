@@ -27,12 +27,12 @@ and [<img src="https://telegram.org/favicon.ico" width="15" height="15">][3]
 ### Often use
 
 ![](https://img.shields.io/badge/Code-Go-00ADD8?style=flat&logo=go)
-![](https://img.shields.io/badge/Tools-PostgreSQL-336791?style=flat&logo=postgresql)
-![](https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker)
+![](https://img.shields.io/badge/DBMS-PostgreSQL-336791?style=flat&logo=postgresql)
+![](https://img.shields.io/badge/Tool-Docker-2496ED?style=flat&logo=docker)
 
 ### Have experience
 
-![](https://img.shields.io/badge/Tools-.NET-512BD4?style=flat&logo=.net)
+![](https://img.shields.io/badge/Platform-.NET-512BD4?style=flat&logo=.net)
 ![](https://img.shields.io/badge/Code-CSharp-239120?style=flat&logo=C-Sharp)
 ![](https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat&logo=typescript)
 ![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript)
