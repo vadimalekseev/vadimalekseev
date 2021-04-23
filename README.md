@@ -24,26 +24,25 @@ and [<img src="https://telegram.org/favicon.ico" width="15" height="15">][3]
 
 ## 🔧 Technologies & Tools
 
-### Love
+### Often use
 
 ![](https://img.shields.io/badge/Code-Go-00ADD8?style=flat&logo=go)
-![](https://img.shields.io/badge/Tools-.NET-512BD4?style=flat&logo=.net)
-![](https://img.shields.io/badge/Code-CSharp-239120?style=flat&logo=C-Sharp)
-
-### Watch
-
-![](https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat&logo=typescript)
-![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript)
-![](https://img.shields.io/badge/Code-Flutter-02569B?style=flat&logo=flutter)
-
-### Also often use
-
-![](https://img.shields.io/badge/Code-Vue-4FC08D?style=flat&logo=vue.js)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-336791?style=flat&logo=postgresql)
 ![](https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker)
-![](https://img.shields.io/badge/Editor-VS-5C2D91?style=flat&logo=visual-studio)
-![](https://img.shields.io/badge/Editor-WebStorm-000000?style=flat&logo=webstorm)
 ![](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=gnu-bash)
+
+### Have experience
+
+![](https://img.shields.io/badge/Tools-.NET-512BD4?style=flat&logo=.net)
+![](https://img.shields.io/badge/Code-CSharp-239120?style=flat&logo=C-Sharp)
+![](https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat&logo=typescript)
+![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Code-Vue-4FC08D?style=flat&logo=vue.js)
+
+### Other
+
+![](https://img.shields.io/badge/OS-Manjaro-35BF5C?style=flat&logo=manjaro)
+![](https://img.shields.io/badge/IDE-JetBrains-000000?style=flat&logo=intellij-idea) 
 
 ## 📈 GitHub Stats
 
