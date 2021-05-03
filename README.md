@@ -9,7 +9,7 @@
 ## 🐱 About
 
 My name is Vadim Alekseev and I'm a Software Engineer. 
-I'm from Russia, living in Dubna and currently working at [<img src="https://evenlab.org//favicon.ico" width="15" height="15"> EVEN Lab](https://evenlab.org/).
+<!--- I'm from Russia, living in Dubna and currently working at [<img src="https://evenlab.org//favicon.ico" width="15" height="15"> EVEN Lab](https://evenlab.org/). -->
 <!---
 I'm from Russia, living in Dubna and currently working at [<img src="https://monqlab.com/favicon.ico" width="15" height="15"> MONQ Lab](https://monqlab.com).
 -->
