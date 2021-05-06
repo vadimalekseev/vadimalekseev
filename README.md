@@ -17,7 +17,7 @@ I'm from Russia, living in Dubna and currently working at [<img src="https://mon
 
 ## 📞 Contacts
 
-You can find me on on 
+You can find me on
 [<img src="https://www.linkedin.com/favicon.ico" width="15" height="15">][1], 
 [<img src="https://vk.com/favicon.ico" width="15" height="15">][2],
 and [<img src="https://telegram.org/favicon.ico" width="15" height="15">][3]
