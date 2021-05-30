@@ -14,7 +14,7 @@ My name is Vadim Alekseev and I'm a Software Engineer.
 I'm from Russia, living in Dubna and currently working at [<img src="https://monqlab.com/favicon.ico" width="15" height="15"> MONQ Lab](https://monqlab.com).
 -->
 
-I'm from Russia, living in Moscow and currently working at [<img src="https://www.ozon.ru/public/favicon.ico" width="15" height="15"> Ozon](https://www.ozon.ru).
+I'm from Russia, living in Moscow and currently working at [<img src="https://raw.githubusercontent.com/Vad1mAlekseev/Vad1mAlekseev/main/static/ozon.ico" width="15" height="15"> Ozon](https://www.ozon.ru).
 
 
 
